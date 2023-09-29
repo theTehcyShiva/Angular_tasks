@@ -3,10 +3,10 @@ import {Injectable} from '@angular/core';
 export interface comicInterface {
     "Id": number,
         "Name": string,
-        "Cover Image Url": string,
-        "Publication Date": Date,
+        "Cover_Image_Url": string,
+        "Publication_Date": Date,
         "Genre": string,
         "Excerpt": string,
-        "Written By": string,
-        "Publusher": string
+        "Written_By": string,
+        "Publisher": string
 }
