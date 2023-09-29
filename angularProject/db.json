@@ -1,0 +1,15 @@
+{
+"books" :[
+    {
+        "Id": 1,
+        "Name": "Richard",
+        "Cover_Image_Url": "URL",
+        "Publication_Date":"date",
+        "Genre": "Genre",
+        "Excerpt": "Exceprte",
+        "Written_By": "Author name",
+        "Publisher": "Innvative Labs"
+        
+    }
+]
+}
